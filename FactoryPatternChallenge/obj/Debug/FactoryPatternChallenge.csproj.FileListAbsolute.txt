@@ -1,0 +1,8 @@
+C:\Users\plant\source\repos\FactoryPatternChallenge\FactoryPatternChallenge\obj\Debug\FactoryPatternChallenge.csproj.AssemblyReference.cache
+C:\Users\plant\source\repos\FactoryPatternChallenge\FactoryPatternChallenge\obj\Debug\FactoryPatternChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\plant\source\repos\FactoryPatternChallenge\FactoryPatternChallenge\obj\Debug\FactoryPatternChallenge.csproj.CoreCompileInputs.cache
+C:\Users\plant\source\repos\FactoryPatternChallenge\FactoryPatternChallenge\bin\Debug\FactoryPatternChallenge.exe.config
+C:\Users\plant\source\repos\FactoryPatternChallenge\FactoryPatternChallenge\bin\Debug\FactoryPatternChallenge.exe
+C:\Users\plant\source\repos\FactoryPatternChallenge\FactoryPatternChallenge\bin\Debug\FactoryPatternChallenge.pdb
+C:\Users\plant\source\repos\FactoryPatternChallenge\FactoryPatternChallenge\obj\Debug\FactoryPatternChallenge.exe
+C:\Users\plant\source\repos\FactoryPatternChallenge\FactoryPatternChallenge\obj\Debug\FactoryPatternChallenge.pdb
